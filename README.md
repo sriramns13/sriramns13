@@ -51,8 +51,8 @@ Data Science practitioner from Chennai, India — building end-to-end ML project
 
 ## 📊 GitHub Stats
 
-![Sriram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriramns13&show_icons=true&theme=default&hide_border=true&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriramns13&layout=compact&hide_border=true&cache_seconds=1800)
+![Sriram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriramns13&show_icons=true&theme=default&hide_border=true&cache_seconds=5000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriramns13&layout=compact&hide_border=true&cache_seconds=5000)
 
 ---
 
