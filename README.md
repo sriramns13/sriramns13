@@ -49,10 +49,12 @@ Data Science practitioner from Chennai, India — building end-to-end ML project
 
 ---
 
-## 📊 GitHub Stats
+## 📊 At a Glance
 
-![Sriram's GitHub Stats](https://github-readme-stats-iegb5xp3m-sriramns13s-projects.vercel.app/api?username=sriramns13&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats-iegb5xp3m-sriramns13s-projects.vercel.app/api/top-langs/?username=sriramns13&layout=compact&hide_border=true)
+- 🗂️ 5 public repositories
+- 🏆 4 end-to-end ML projects across fintech, retail, hospitality and immigration
+- 💻 Primary language: Python (Jupyter Notebook)
+- 🔥 Most advanced project: GPU-accelerated fraud detection on 6.3M+ records
 
 ---
 
